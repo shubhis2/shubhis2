@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Shubhi Shrivastava
+# $$\color{royalblue}{Hi \space there \space 👋, \space I'm \space Shubhi \space Shrivastava}$$
 
-### a passionate computer scientist 
+### $\color{grey}{A \space passionate \space computer \space scientist}$
 
 #### 👩🏻‍💻 About me:
 
